@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+img{
+	height:100px;
+}
+.main{
+	height:500px;
+	width:500px;
+	background-color:gray;
+	display:flex;
+}
